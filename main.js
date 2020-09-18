@@ -6,11 +6,11 @@ const title = (document.getElementById("FortuneTitle").innerHTML =
 const subTitle = (document.getElementById("FortuneSubtitle").innerHTML =
   "What do you want to know?");
 
-function fortuneImg() {
-  let x = document.getElementById("paraBg");
-  if (x.style.display === "none") {
-    x.style.display = "block";
+function getImg() {
+  let fortuneImg = document.getElementById("paraBg");
+  if (fortuneImg.style.display === "none") {
+    fortuneImg.style.display = "block";
   } else {
-    x.style.display = "none";
+    fortuneImg.style.display = "none";
   }
 }
