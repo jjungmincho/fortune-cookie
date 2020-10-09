@@ -1,6 +1,6 @@
 # fortune-cookie
 
-An online fortune cookie website using Vanilla JS
+An online fortune cookie website to practice Vanilla JS
 
 ## Reference
 
