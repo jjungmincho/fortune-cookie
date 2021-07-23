@@ -4,9 +4,9 @@ I created a simple responsive fortune cookie website using HTML, CSS and JavaScr
 
 ---
 ## Table of Content
-- [Technologies](https://github.com/jjessicacho/fortune-cookie#technologies)
-- [Features](https://github.com/jjessicacho/fortune-cookie#features)
-- [Sources](https://github.com/jjessicacho/fortune-cookie#sources)
+- [Technologies](https://github.com/jjungmincho/fortune-cookie#technologies)
+- [Features](https://github.com/jjungmincho/fortune-cookie#features)
+- [Sources](https://github.com/jjungmincho/fortune-cookie#sources)
 
 ---
 
